@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0.5" y1="0.0" x2="0.5" y2="1.0"><stop offset="0" stop-color="#FCFDFE"/><stop offset="1" stop-color="#EAF3FB"/></linearGradient>
+    <linearGradient id="pocket" x1="0.5" y1="0.0" x2="0.5" y2="1.0"><stop offset="0" stop-color="#02806A"/><stop offset="1" stop-color="#014F4C"/></linearGradient>
+    <linearGradient id="front" x1="0.5" y1="0.0" x2="0.5" y2="1.0"><stop offset="0" stop-color="#14D6A3"/><stop offset="1" stop-color="#02857E"/></linearGradient>
+    <linearGradient id="chart" x1="1.0" y1="0.0" x2="0.0" y2="1.0"><stop offset="0" stop-color="#9AFDC6"/><stop offset="1" stop-color="#26E9A8"/></linearGradient>
+    <linearGradient id="clasp" x1="0.5" y1="0.0" x2="0.5" y2="1.0"><stop offset="0" stop-color="#16DCA0"/><stop offset="1" stop-color="#02A88B"/></linearGradient>
+    <linearGradient id="button" x1="0.5" y1="0.0" x2="0.5" y2="1.0"><stop offset="0" stop-color="#A2FCC7"/><stop offset="1" stop-color="#4DF6B5"/></linearGradient>
+    <linearGradient id="coin" x1="0.2" y1="0.1" x2="0.8" y2="0.9"><stop offset="0" stop-color="#FFAE7A"/><stop offset="1" stop-color="#FF5C66"/></linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <path d="M189.45 571.61 V391.15 A114.32 114.32 0 0 1 303.77 276.82 H653.27 A16.33 16.33 0 0 1 669.6 293.15 V337.25 H775.76 A57.16 57.16 0 0 1 832.92 394.41 V571.61 Z" fill="#15D89C"/>
+  <path d="M227.01 363.38 A81.66 56.34 0 0 1 308.67 307.04 H657.35 A6.53 6.53 0 0 1 663.89 313.57 V347.05 H782.29 A24.5 24.5 0 0 1 806.79 371.55 V377.26 A24.5 24.5 0 0 1 782.29 401.76 H259.67 V396.04 A32.66 32.66 0 0 1 227.01 363.38 Z" fill="url(#pocket)"/>
+  <path d="M189.45 396.04 H803.52 A31.03 31.03 0 0 1 834.55 427.07 V721.05 A89.82 89.82 0 0 1 744.73 810.87 H279.27 A89.82 89.82 0 0 1 189.45 721.05 Z" fill="url(#front)"/>
+  <path d="M189.45 608.91 L223.03 639.91 A35.93 35.93 0 0 0 273.46 638.24 L413.82 490.34 A38.38 38.38 0 0 1 464.1 485.62 L506.59 516.23 A6.53 6.53 0 0 0 515.44 515.1 L677.24 319.76 A26.13 26.13 0 0 1 717.49 353.1 L545.7 560.49 A42.05 42.05 0 0 1 488.73 567.78 L448.01 538.45 A6.53 6.53 0 0 0 439.46 539.25 L311.37 674.22 A88.19 88.19 0 0 1 189.45 679.99 Z" fill="url(#chart)"/>
+  <path d="M744.73 498.12 H838.63 A24.5 24.5 0 0 1 863.13 522.62 V656.54 A24.5 24.5 0 0 1 838.63 681.03 H744.73 A91.46 91.46 0 0 1 653.27 589.58 A91.46 91.46 0 0 1 744.73 498.12 Z" fill="url(#clasp)"/>
+  <circle cx="733.3" cy="590.39" r="37.56" fill="url(#button)"/>
+  <circle cx="761.88" cy="255.59" r="63.69" fill="url(#coin)"/>
+</svg>
